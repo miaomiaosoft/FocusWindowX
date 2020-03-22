@@ -9,6 +9,7 @@
 #### 注意事项：
 - 可能需要管理员权限运行！
 - 效果2和效果3也许只能用于WIN7系统下并启用了aero特效！
+- 程序纯净不联网，如果被杀毒误报请自行甄别和加白处理！
 
 #### 程序下载：
 - https://github.com/miaomiaosoft/FocusWindowX/releases
